@@ -1,0 +1,7002 @@
+[
+  {
+    "fabric_width": 146,
+    "fabric_height": 103,
+    "pattern_width": 47,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 152,
+    "pattern_width": 60,
+    "pattern_height": 28,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 143,
+    "pattern_width": 44,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 159,
+    "pattern_width": 30,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 128,
+    "pattern_width": 38,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 164,
+    "pattern_width": 18,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 152,
+    "pattern_width": 105,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 143,
+    "pattern_width": 120,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 123,
+    "pattern_width": 162,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 162,
+    "pattern_width": 44,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 133,
+    "pattern_width": 74,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 147,
+    "pattern_width": 107,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 158,
+    "pattern_width": 79,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 200,
+    "pattern_width": 177,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 186,
+    "pattern_width": 142,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 169,
+    "pattern_width": 81,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 139,
+    "pattern_width": 16,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 192,
+    "pattern_width": 114,
+    "pattern_height": 179,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 141,
+    "pattern_width": 50,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 182,
+    "pattern_width": 47,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 134,
+    "pattern_width": 79,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 190,
+    "pattern_width": 85,
+    "pattern_height": 162,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 162,
+    "pattern_width": 67,
+    "pattern_height": 134,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 189,
+    "pattern_width": 50,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 169,
+    "pattern_width": 71,
+    "pattern_height": 105,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 133,
+    "pattern_width": 18,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 177,
+    "pattern_width": 53,
+    "pattern_height": 49,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 176,
+    "pattern_width": 75,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 102,
+    "pattern_width": 69,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 124,
+    "fabric_height": 127,
+    "pattern_width": 104,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 105,
+    "pattern_width": 85,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 113,
+    "pattern_width": 39,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 128,
+    "pattern_width": 134,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 173,
+    "pattern_width": 97,
+    "pattern_height": 161,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 183,
+    "pattern_width": 61,
+    "pattern_height": 108,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 199,
+    "pattern_width": 33,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 172,
+    "pattern_width": 34,
+    "pattern_height": 146,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 193,
+    "pattern_width": 10,
+    "pattern_height": 80,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 157,
+    "pattern_width": 147,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 200,
+    "fabric_height": 102,
+    "pattern_width": 70,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 182,
+    "pattern_width": 24,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 183,
+    "pattern_width": 11,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 103,
+    "pattern_width": 106,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 185,
+    "pattern_width": 79,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 162,
+    "pattern_width": 75,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 193,
+    "pattern_width": 151,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 109,
+    "fabric_height": 198,
+    "pattern_width": 60,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 196,
+    "pattern_width": 137,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 113,
+    "pattern_width": 103,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 145,
+    "pattern_width": 28,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 147,
+    "pattern_width": 24,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 107,
+    "pattern_width": 35,
+    "pattern_height": 30,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 133,
+    "pattern_width": 91,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 152,
+    "pattern_width": 90,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 138,
+    "pattern_width": 90,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 159,
+    "pattern_width": 24,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 122,
+    "pattern_width": 62,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 183,
+    "pattern_width": 124,
+    "pattern_height": 146,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 142,
+    "pattern_width": 133,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 133,
+    "pattern_width": 124,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 131,
+    "pattern_width": 134,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 185,
+    "pattern_width": 40,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 104,
+    "pattern_width": 139,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 200,
+    "pattern_width": 122,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 180,
+    "pattern_width": 48,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 158,
+    "pattern_width": 16,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 160,
+    "pattern_width": 91,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 159,
+    "pattern_width": 187,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 192,
+    "pattern_width": 39,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 184,
+    "pattern_width": 66,
+    "pattern_height": 121,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 114,
+    "pattern_width": 91,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 161,
+    "pattern_width": 93,
+    "pattern_height": 96,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 198,
+    "pattern_width": 23,
+    "pattern_height": 172,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 161,
+    "pattern_width": 124,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 162,
+    "pattern_width": 60,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 164,
+    "pattern_width": 28,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 113,
+    "pattern_width": 70,
+    "pattern_height": 23,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 190,
+    "pattern_width": 96,
+    "pattern_height": 156,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 192,
+    "pattern_width": 136,
+    "pattern_height": 30,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 140,
+    "pattern_width": 88,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 137,
+    "pattern_width": 24,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 165,
+    "pattern_width": 18,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 106,
+    "pattern_width": 183,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 165,
+    "pattern_width": 30,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 143,
+    "pattern_width": 95,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 136,
+    "pattern_width": 117,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 139,
+    "pattern_width": 39,
+    "pattern_height": 88,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 145,
+    "pattern_width": 50,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 162,
+    "pattern_width": 13,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 123,
+    "pattern_width": 134,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 181,
+    "pattern_width": 93,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 166,
+    "pattern_width": 140,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 121,
+    "pattern_width": 40,
+    "pattern_height": 56,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 145,
+    "pattern_width": 35,
+    "pattern_height": 23,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 106,
+    "pattern_width": 55,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 158,
+    "pattern_width": 74,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 174,
+    "pattern_width": 170,
+    "pattern_height": 111,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 143,
+    "pattern_width": 67,
+    "pattern_height": 19,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 193,
+    "pattern_width": 92,
+    "pattern_height": 70,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 185,
+    "pattern_width": 59,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 136,
+    "pattern_width": 104,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 140,
+    "pattern_width": 83,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 105,
+    "pattern_width": 69,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 156,
+    "pattern_width": 127,
+    "pattern_height": 137,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 183,
+    "pattern_width": 147,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 124,
+    "pattern_width": 62,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 144,
+    "pattern_width": 45,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 198,
+    "pattern_width": 73,
+    "pattern_height": 169,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 149,
+    "pattern_width": 65,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 135,
+    "pattern_width": 104,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 142,
+    "pattern_width": 76,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 115,
+    "pattern_width": 147,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 141,
+    "pattern_width": 56,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 184,
+    "pattern_width": 113,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 164,
+    "pattern_width": 13,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 104,
+    "pattern_width": 57,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 175,
+    "pattern_width": 20,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 154,
+    "pattern_width": 114,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 110,
+    "pattern_width": 72,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 176,
+    "pattern_width": 161,
+    "pattern_height": 15,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 130,
+    "pattern_width": 58,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 135,
+    "pattern_width": 52,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 114,
+    "pattern_width": 87,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 159,
+    "pattern_width": 53,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 197,
+    "pattern_width": 79,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 159,
+    "pattern_width": 33,
+    "pattern_height": 37,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 138,
+    "pattern_width": 108,
+    "pattern_height": 49,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 124,
+    "pattern_width": 125,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 200,
+    "fabric_height": 116,
+    "pattern_width": 134,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 129,
+    "pattern_width": 14,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 119,
+    "pattern_width": 98,
+    "pattern_height": 52,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 172,
+    "pattern_width": 121,
+    "pattern_height": 139,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 148,
+    "pattern_width": 80,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 101,
+    "pattern_width": 61,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 160,
+    "pattern_width": 136,
+    "pattern_height": 148,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 122,
+    "pattern_width": 18,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 122,
+    "pattern_width": 21,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 167,
+    "pattern_width": 21,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 179,
+    "pattern_width": 145,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 144,
+    "pattern_width": 61,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 165,
+    "pattern_width": 97,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 141,
+    "pattern_width": 87,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 125,
+    "pattern_width": 26,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 178,
+    "pattern_width": 55,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 180,
+    "pattern_width": 158,
+    "pattern_height": 152,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 200,
+    "pattern_width": 36,
+    "pattern_height": 170,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 136,
+    "pattern_width": 106,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 131,
+    "pattern_width": 161,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 191,
+    "pattern_width": 90,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 158,
+    "pattern_width": 105,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 118,
+    "pattern_width": 115,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 181,
+    "pattern_width": 112,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 139,
+    "pattern_width": 34,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 147,
+    "pattern_width": 50,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 189,
+    "pattern_width": 104,
+    "pattern_height": 170,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 136,
+    "pattern_width": 20,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 164,
+    "pattern_width": 166,
+    "pattern_height": 153,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 158,
+    "pattern_width": 156,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 154,
+    "pattern_width": 159,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 192,
+    "pattern_width": 158,
+    "pattern_height": 107,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 198,
+    "pattern_width": 86,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 191,
+    "pattern_width": 79,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 102,
+    "pattern_width": 38,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 119,
+    "pattern_width": 28,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 100,
+    "pattern_width": 88,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 167,
+    "pattern_width": 82,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 160,
+    "pattern_width": 93,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 133,
+    "pattern_width": 178,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 173,
+    "pattern_width": 38,
+    "pattern_height": 151,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 112,
+    "pattern_width": 98,
+    "pattern_height": 23,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 120,
+    "pattern_width": 32,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 106,
+    "pattern_width": 90,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 154,
+    "pattern_width": 135,
+    "pattern_height": 124,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 193,
+    "pattern_width": 13,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 157,
+    "pattern_width": 43,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 183,
+    "pattern_width": 147,
+    "pattern_height": 159,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 169,
+    "pattern_width": 110,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 136,
+    "pattern_width": 52,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 199,
+    "pattern_width": 30,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 120,
+    "pattern_width": 123,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 152,
+    "pattern_width": 178,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 112,
+    "pattern_width": 115,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 195,
+    "pattern_width": 130,
+    "pattern_height": 170,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 159,
+    "pattern_width": 17,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 124,
+    "pattern_width": 64,
+    "pattern_height": 88,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 128,
+    "pattern_width": 108,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 176,
+    "pattern_width": 72,
+    "pattern_height": 121,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 177,
+    "pattern_width": 74,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 140,
+    "pattern_width": 77,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 145,
+    "pattern_width": 59,
+    "pattern_height": 99,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 150,
+    "pattern_width": 164,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 108,
+    "pattern_width": 15,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 101,
+    "pattern_width": 103,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 152,
+    "pattern_width": 18,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 151,
+    "pattern_width": 65,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 168,
+    "pattern_width": 54,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 134,
+    "pattern_width": 38,
+    "pattern_height": 66,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 124,
+    "pattern_width": 52,
+    "pattern_height": 30,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 170,
+    "pattern_width": 142,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 198,
+    "pattern_width": 93,
+    "pattern_height": 52,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 178,
+    "pattern_width": 100,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 165,
+    "pattern_width": 13,
+    "pattern_height": 96,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 179,
+    "pattern_width": 30,
+    "pattern_height": 129,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 113,
+    "pattern_width": 35,
+    "pattern_height": 17,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 192,
+    "pattern_width": 34,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 184,
+    "pattern_width": 124,
+    "pattern_height": 118,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 147,
+    "pattern_width": 122,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 116,
+    "pattern_width": 182,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 101,
+    "pattern_width": 68,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 129,
+    "pattern_width": 52,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 133,
+    "pattern_width": 60,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 195,
+    "pattern_width": 26,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 169,
+    "pattern_width": 102,
+    "pattern_height": 30,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 170,
+    "pattern_width": 78,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 136,
+    "pattern_width": 18,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 149,
+    "pattern_width": 88,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 136,
+    "pattern_width": 143,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 182,
+    "pattern_width": 44,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 131,
+    "pattern_width": 75,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 189,
+    "pattern_width": 13,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 122,
+    "pattern_width": 40,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 110,
+    "pattern_width": 64,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 143,
+    "pattern_width": 12,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 123,
+    "pattern_width": 109,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 110,
+    "pattern_width": 16,
+    "pattern_height": 80,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 158,
+    "pattern_width": 34,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 177,
+    "pattern_width": 110,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 192,
+    "pattern_width": 29,
+    "pattern_height": 120,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 115,
+    "pattern_width": 18,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 109,
+    "pattern_width": 109,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 144,
+    "pattern_width": 27,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 159,
+    "fabric_height": 166,
+    "pattern_width": 94,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 102,
+    "pattern_width": 126,
+    "pattern_height": 57,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 122,
+    "pattern_width": 45,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 131,
+    "pattern_width": 125,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 112,
+    "pattern_width": 122,
+    "pattern_height": 19,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 143,
+    "pattern_width": 80,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 136,
+    "pattern_width": 23,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 162,
+    "pattern_width": 167,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 168,
+    "pattern_width": 117,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 200,
+    "fabric_height": 148,
+    "pattern_width": 137,
+    "pattern_height": 123,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 180,
+    "pattern_width": 30,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 156,
+    "pattern_width": 69,
+    "pattern_height": 142,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 131,
+    "pattern_width": 80,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 171,
+    "pattern_width": 162,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 162,
+    "fabric_height": 131,
+    "pattern_width": 141,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 116,
+    "pattern_width": 11,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 163,
+    "pattern_width": 39,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 159,
+    "pattern_width": 33,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 136,
+    "pattern_width": 99,
+    "pattern_height": 57,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 137,
+    "pattern_width": 22,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 149,
+    "pattern_width": 59,
+    "pattern_height": 99,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 119,
+    "pattern_width": 47,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 115,
+    "pattern_width": 127,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 186,
+    "pattern_width": 156,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 198,
+    "pattern_width": 87,
+    "pattern_height": 28,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 137,
+    "pattern_width": 37,
+    "pattern_height": 124,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 106,
+    "pattern_width": 34,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 176,
+    "pattern_width": 132,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 150,
+    "pattern_width": 24,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 133,
+    "pattern_width": 127,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 158,
+    "pattern_width": 140,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 179,
+    "pattern_width": 19,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 104,
+    "pattern_width": 67,
+    "pattern_height": 56,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 155,
+    "pattern_width": 37,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 179,
+    "pattern_width": 112,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 175,
+    "pattern_width": 24,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 188,
+    "pattern_width": 84,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 152,
+    "pattern_width": 20,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 111,
+    "pattern_width": 65,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 102,
+    "pattern_width": 64,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 151,
+    "pattern_width": 48,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 197,
+    "pattern_width": 97,
+    "pattern_height": 160,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 172,
+    "pattern_width": 100,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 181,
+    "pattern_width": 80,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 198,
+    "pattern_width": 44,
+    "pattern_height": 142,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 112,
+    "pattern_width": 26,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 187,
+    "pattern_width": 105,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 126,
+    "pattern_width": 66,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 199,
+    "pattern_width": 17,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 177,
+    "pattern_width": 20,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 145,
+    "pattern_width": 58,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 176,
+    "pattern_width": 44,
+    "pattern_height": 149,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 134,
+    "pattern_width": 70,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 131,
+    "pattern_width": 21,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 106,
+    "pattern_width": 138,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 191,
+    "pattern_width": 21,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 146,
+    "pattern_width": 102,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 134,
+    "pattern_width": 82,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 114,
+    "pattern_width": 92,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 178,
+    "pattern_width": 61,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 179,
+    "pattern_width": 50,
+    "pattern_height": 154,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 167,
+    "pattern_width": 111,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 194,
+    "pattern_width": 25,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 169,
+    "pattern_width": 61,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 189,
+    "pattern_width": 93,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 107,
+    "pattern_width": 141,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 138,
+    "pattern_width": 78,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 138,
+    "pattern_width": 138,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 159,
+    "pattern_width": 115,
+    "pattern_height": 107,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 109,
+    "pattern_width": 13,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 111,
+    "pattern_width": 69,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 108,
+    "pattern_width": 104,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 130,
+    "pattern_width": 83,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 195,
+    "pattern_width": 97,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 146,
+    "pattern_width": 101,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 174,
+    "pattern_width": 17,
+    "pattern_height": 139,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 131,
+    "pattern_width": 45,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 112,
+    "pattern_width": 158,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 182,
+    "pattern_width": 87,
+    "pattern_height": 161,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 192,
+    "pattern_width": 93,
+    "pattern_height": 155,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 152,
+    "pattern_width": 33,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 160,
+    "pattern_width": 89,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 104,
+    "pattern_width": 39,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 152,
+    "pattern_width": 118,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 134,
+    "pattern_width": 84,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 198,
+    "pattern_width": 92,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 157,
+    "pattern_width": 22,
+    "pattern_height": 53,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 134,
+    "pattern_width": 96,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 162,
+    "pattern_width": 58,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 140,
+    "pattern_width": 18,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 104,
+    "pattern_width": 96,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 123,
+    "pattern_width": 116,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 179,
+    "pattern_width": 55,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 124,
+    "pattern_width": 93,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 171,
+    "pattern_width": 74,
+    "pattern_height": 136,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 111,
+    "pattern_width": 117,
+    "pattern_height": 99,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 179,
+    "pattern_width": 76,
+    "pattern_height": 143,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 100,
+    "pattern_width": 122,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 103,
+    "pattern_width": 76,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 185,
+    "pattern_width": 151,
+    "pattern_height": 156,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 114,
+    "pattern_width": 77,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 196,
+    "pattern_width": 67,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 109,
+    "pattern_width": 87,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 139,
+    "pattern_width": 48,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 110,
+    "pattern_width": 75,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 166,
+    "pattern_width": 52,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 104,
+    "pattern_width": 41,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 169,
+    "pattern_width": 168,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 174,
+    "pattern_width": 11,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 188,
+    "pattern_width": 84,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 195,
+    "pattern_width": 41,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 161,
+    "pattern_width": 48,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 143,
+    "pattern_width": 29,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 109,
+    "pattern_width": 72,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 103,
+    "pattern_width": 79,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 200,
+    "pattern_width": 48,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 193,
+    "pattern_width": 21,
+    "pattern_height": 107,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 176,
+    "pattern_width": 55,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 133,
+    "pattern_width": 28,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 126,
+    "pattern_width": 63,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 198,
+    "pattern_width": 39,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 145,
+    "pattern_width": 58,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 147,
+    "pattern_width": 26,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 132,
+    "pattern_width": 148,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 153,
+    "pattern_width": 104,
+    "pattern_height": 121,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 137,
+    "pattern_width": 51,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 172,
+    "pattern_width": 25,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 185,
+    "pattern_width": 112,
+    "pattern_height": 57,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 132,
+    "pattern_width": 38,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 125,
+    "pattern_width": 151,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 108,
+    "pattern_width": 28,
+    "pattern_height": 96,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 174,
+    "pattern_width": 102,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 129,
+    "pattern_width": 65,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 190,
+    "pattern_width": 86,
+    "pattern_height": 152,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 191,
+    "pattern_width": 23,
+    "pattern_height": 178,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 100,
+    "pattern_width": 24,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 111,
+    "pattern_width": 19,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 115,
+    "pattern_width": 77,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 191,
+    "pattern_width": 53,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 147,
+    "pattern_width": 84,
+    "pattern_height": 118,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 111,
+    "pattern_width": 14,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 148,
+    "pattern_width": 53,
+    "pattern_height": 117,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 167,
+    "pattern_width": 75,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 135,
+    "pattern_width": 26,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 106,
+    "pattern_width": 124,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 195,
+    "pattern_width": 32,
+    "pattern_height": 142,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 160,
+    "pattern_width": 49,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 158,
+    "pattern_width": 27,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 114,
+    "pattern_width": 123,
+    "pattern_height": 53,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 112,
+    "pattern_width": 39,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 112,
+    "pattern_width": 114,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 198,
+    "pattern_width": 48,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 168,
+    "pattern_width": 100,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 130,
+    "pattern_width": 34,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 108,
+    "pattern_width": 62,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 150,
+    "pattern_width": 82,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 175,
+    "pattern_width": 113,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 163,
+    "pattern_width": 160,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 181,
+    "pattern_width": 127,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 197,
+    "pattern_width": 32,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 187,
+    "pattern_width": 25,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 177,
+    "pattern_width": 79,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 117,
+    "pattern_width": 67,
+    "pattern_height": 52,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 144,
+    "pattern_width": 110,
+    "pattern_height": 22,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 165,
+    "pattern_width": 60,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 148,
+    "pattern_width": 29,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 101,
+    "pattern_width": 38,
+    "pattern_height": 66,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 150,
+    "pattern_width": 21,
+    "pattern_height": 53,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 197,
+    "pattern_width": 102,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 119,
+    "pattern_width": 49,
+    "pattern_height": 98,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 110,
+    "pattern_width": 35,
+    "pattern_height": 40,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 151,
+    "pattern_width": 119,
+    "pattern_height": 40,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 155,
+    "pattern_width": 14,
+    "pattern_height": 131,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 112,
+    "pattern_width": 43,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 131,
+    "pattern_width": 169,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 196,
+    "pattern_width": 66,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 139,
+    "pattern_width": 80,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 144,
+    "pattern_width": 76,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 135,
+    "pattern_width": 37,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 116,
+    "pattern_width": 18,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 191,
+    "pattern_width": 133,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 126,
+    "pattern_width": 34,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 165,
+    "pattern_width": 20,
+    "pattern_height": 108,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 198,
+    "pattern_width": 39,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 168,
+    "pattern_width": 56,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 104,
+    "pattern_width": 21,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 171,
+    "pattern_width": 89,
+    "pattern_height": 88,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 120,
+    "pattern_width": 59,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 128,
+    "pattern_width": 30,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 149,
+    "pattern_width": 69,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 162,
+    "fabric_height": 101,
+    "pattern_width": 152,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 120,
+    "pattern_width": 124,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 141,
+    "pattern_width": 109,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 117,
+    "pattern_width": 85,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 187,
+    "pattern_width": 65,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 111,
+    "pattern_width": 56,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 149,
+    "pattern_width": 116,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 198,
+    "pattern_width": 91,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 150,
+    "pattern_width": 96,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 109,
+    "pattern_width": 17,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 109,
+    "pattern_width": 69,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 111,
+    "pattern_width": 13,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 176,
+    "pattern_width": 147,
+    "pattern_height": 103,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 129,
+    "pattern_width": 67,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 124,
+    "pattern_width": 24,
+    "pattern_height": 70,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 127,
+    "pattern_width": 52,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 154,
+    "pattern_width": 26,
+    "pattern_height": 37,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 146,
+    "pattern_width": 93,
+    "pattern_height": 134,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 119,
+    "pattern_width": 16,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 107,
+    "pattern_width": 44,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 151,
+    "pattern_width": 48,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 146,
+    "pattern_width": 59,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 114,
+    "pattern_width": 148,
+    "pattern_height": 37,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 128,
+    "pattern_width": 96,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 165,
+    "pattern_width": 155,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 153,
+    "pattern_width": 103,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 117,
+    "pattern_width": 21,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 109,
+    "fabric_height": 153,
+    "pattern_width": 21,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 173,
+    "pattern_width": 44,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 190,
+    "pattern_width": 58,
+    "pattern_height": 22,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 162,
+    "pattern_width": 127,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 111,
+    "pattern_width": 145,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 144,
+    "pattern_width": 116,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 114,
+    "pattern_width": 73,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 157,
+    "pattern_width": 40,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 188,
+    "pattern_width": 29,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 180,
+    "pattern_width": 128,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 130,
+    "pattern_width": 81,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 111,
+    "pattern_width": 129,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 156,
+    "pattern_width": 148,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 132,
+    "pattern_width": 43,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 102,
+    "pattern_width": 149,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 176,
+    "pattern_width": 173,
+    "pattern_height": 70,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 113,
+    "pattern_width": 108,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 140,
+    "pattern_width": 70,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 159,
+    "fabric_height": 146,
+    "pattern_width": 93,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 140,
+    "pattern_width": 39,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 137,
+    "pattern_width": 137,
+    "pattern_height": 107,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 167,
+    "pattern_width": 89,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 119,
+    "pattern_width": 78,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 136,
+    "pattern_width": 27,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 127,
+    "pattern_width": 47,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 168,
+    "pattern_width": 146,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 162,
+    "fabric_height": 170,
+    "pattern_width": 145,
+    "pattern_height": 146,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 143,
+    "pattern_width": 86,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 116,
+    "pattern_width": 103,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 114,
+    "pattern_width": 128,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 164,
+    "pattern_width": 12,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 130,
+    "pattern_width": 86,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 181,
+    "pattern_width": 153,
+    "pattern_height": 155,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 179,
+    "pattern_width": 115,
+    "pattern_height": 111,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 146,
+    "pattern_width": 43,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 177,
+    "pattern_width": 110,
+    "pattern_height": 66,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 100,
+    "pattern_width": 36,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 116,
+    "pattern_width": 12,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 121,
+    "pattern_width": 47,
+    "pattern_height": 56,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 101,
+    "pattern_width": 16,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 124,
+    "pattern_width": 103,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 160,
+    "pattern_width": 116,
+    "pattern_height": 103,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 135,
+    "pattern_width": 98,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 150,
+    "pattern_width": 30,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 115,
+    "pattern_width": 54,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 147,
+    "pattern_width": 131,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 177,
+    "pattern_width": 99,
+    "pattern_height": 151,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 112,
+    "pattern_width": 24,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 148,
+    "pattern_width": 81,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 137,
+    "pattern_width": 103,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 134,
+    "pattern_width": 20,
+    "pattern_height": 124,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 144,
+    "pattern_width": 111,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 127,
+    "pattern_width": 29,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 148,
+    "pattern_width": 48,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 116,
+    "pattern_width": 132,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 200,
+    "pattern_width": 79,
+    "pattern_height": 140,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 141,
+    "pattern_width": 90,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 181,
+    "pattern_width": 168,
+    "pattern_height": 22,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 140,
+    "pattern_width": 33,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 101,
+    "pattern_width": 26,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 101,
+    "pattern_width": 119,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 159,
+    "fabric_height": 131,
+    "pattern_width": 116,
+    "pattern_height": 121,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 159,
+    "pattern_width": 48,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 153,
+    "pattern_width": 142,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 145,
+    "pattern_width": 98,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 155,
+    "pattern_width": 33,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 154,
+    "pattern_width": 18,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 123,
+    "pattern_width": 97,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 100,
+    "pattern_width": 70,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 180,
+    "pattern_width": 63,
+    "pattern_height": 156,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 107,
+    "pattern_width": 133,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 145,
+    "pattern_width": 95,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 164,
+    "pattern_width": 52,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 107,
+    "pattern_width": 77,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 111,
+    "pattern_width": 33,
+    "pattern_height": 52,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 158,
+    "pattern_width": 58,
+    "pattern_height": 19,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 194,
+    "pattern_width": 91,
+    "pattern_height": 165,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 193,
+    "pattern_width": 107,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 105,
+    "pattern_width": 28,
+    "pattern_height": 22,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 171,
+    "pattern_width": 43,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 181,
+    "pattern_width": 170,
+    "pattern_height": 113,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 111,
+    "pattern_width": 51,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 174,
+    "pattern_width": 22,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 178,
+    "pattern_width": 40,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 131,
+    "pattern_width": 84,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 118,
+    "pattern_width": 98,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 190,
+    "pattern_width": 21,
+    "pattern_height": 141,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 165,
+    "pattern_width": 72,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 176,
+    "pattern_width": 29,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 199,
+    "pattern_width": 61,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 194,
+    "pattern_width": 16,
+    "pattern_height": 111,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 103,
+    "pattern_width": 50,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 127,
+    "pattern_width": 137,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 129,
+    "pattern_width": 79,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 124,
+    "pattern_width": 48,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 162,
+    "pattern_width": 109,
+    "pattern_height": 146,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 198,
+    "pattern_width": 82,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 184,
+    "pattern_width": 65,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 119,
+    "pattern_width": 38,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 106,
+    "pattern_width": 15,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 172,
+    "pattern_width": 68,
+    "pattern_height": 120,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 118,
+    "pattern_width": 19,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 150,
+    "pattern_width": 103,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 116,
+    "pattern_width": 40,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 194,
+    "pattern_width": 125,
+    "pattern_height": 145,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 123,
+    "pattern_width": 65,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 104,
+    "pattern_width": 73,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 185,
+    "pattern_width": 94,
+    "pattern_height": 150,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 149,
+    "pattern_width": 87,
+    "pattern_height": 103,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 136,
+    "pattern_width": 79,
+    "pattern_height": 12,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 165,
+    "pattern_width": 45,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 123,
+    "pattern_width": 155,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 117,
+    "pattern_width": 19,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 176,
+    "pattern_width": 78,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 105,
+    "pattern_width": 10,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 185,
+    "pattern_width": 17,
+    "pattern_height": 139,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 126,
+    "pattern_width": 13,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 145,
+    "pattern_width": 42,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 175,
+    "fabric_height": 103,
+    "pattern_width": 124,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 199,
+    "pattern_width": 25,
+    "pattern_height": 145,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 192,
+    "pattern_width": 79,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 193,
+    "pattern_width": 65,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 153,
+    "pattern_width": 110,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 138,
+    "pattern_width": 99,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 184,
+    "pattern_width": 56,
+    "pattern_height": 80,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 170,
+    "pattern_width": 109,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 194,
+    "pattern_width": 45,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 143,
+    "pattern_width": 116,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 143,
+    "pattern_width": 126,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 162,
+    "pattern_width": 55,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 139,
+    "pattern_width": 96,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 190,
+    "pattern_width": 73,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 105,
+    "pattern_width": 158,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 105,
+    "pattern_width": 22,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 179,
+    "pattern_width": 90,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 115,
+    "pattern_width": 78,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 173,
+    "pattern_width": 87,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 185,
+    "pattern_width": 75,
+    "pattern_height": 163,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 169,
+    "pattern_width": 88,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 198,
+    "pattern_width": 31,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 159,
+    "pattern_width": 26,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 187,
+    "pattern_width": 113,
+    "pattern_height": 103,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 128,
+    "pattern_width": 37,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 191,
+    "pattern_width": 125,
+    "pattern_height": 106,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 154,
+    "pattern_width": 133,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 161,
+    "pattern_width": 62,
+    "pattern_height": 56,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 126,
+    "pattern_width": 87,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 110,
+    "pattern_width": 51,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 167,
+    "pattern_width": 85,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 177,
+    "pattern_width": 86,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 170,
+    "pattern_width": 75,
+    "pattern_height": 159,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 100,
+    "pattern_width": 96,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 171,
+    "pattern_width": 140,
+    "pattern_height": 135,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 197,
+    "fabric_height": 129,
+    "pattern_width": 184,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 130,
+    "pattern_width": 148,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 130,
+    "pattern_width": 104,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 194,
+    "pattern_width": 17,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 159,
+    "pattern_width": 122,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 128,
+    "pattern_width": 106,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 139,
+    "pattern_width": 43,
+    "pattern_height": 117,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 156,
+    "pattern_width": 40,
+    "pattern_height": 144,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 158,
+    "pattern_width": 153,
+    "pattern_height": 103,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 186,
+    "pattern_width": 68,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 116,
+    "pattern_width": 11,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 100,
+    "pattern_width": 76,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 107,
+    "pattern_width": 145,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 187,
+    "pattern_width": 95,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 200,
+    "fabric_height": 156,
+    "pattern_width": 54,
+    "pattern_height": 145,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 177,
+    "pattern_width": 94,
+    "pattern_height": 134,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 102,
+    "pattern_width": 23,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 125,
+    "pattern_width": 22,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 109,
+    "fabric_height": 186,
+    "pattern_width": 86,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 159,
+    "fabric_height": 138,
+    "pattern_width": 132,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 146,
+    "pattern_width": 23,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 103,
+    "pattern_width": 28,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 167,
+    "pattern_width": 65,
+    "pattern_height": 153,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 198,
+    "pattern_width": 92,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 123,
+    "pattern_width": 29,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 183,
+    "pattern_width": 51,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 152,
+    "pattern_width": 75,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 185,
+    "pattern_width": 120,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 150,
+    "pattern_width": 150,
+    "pattern_height": 88,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 156,
+    "pattern_width": 26,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 174,
+    "pattern_width": 118,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 154,
+    "pattern_width": 30,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 184,
+    "pattern_width": 28,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 170,
+    "pattern_width": 37,
+    "pattern_height": 28,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 153,
+    "pattern_width": 31,
+    "pattern_height": 125,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 102,
+    "pattern_width": 68,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 111,
+    "pattern_width": 89,
+    "pattern_height": 37,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 177,
+    "pattern_width": 85,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 181,
+    "pattern_width": 152,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 155,
+    "pattern_width": 51,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 182,
+    "pattern_width": 20,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 131,
+    "pattern_width": 96,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 135,
+    "pattern_width": 11,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 183,
+    "pattern_width": 101,
+    "pattern_height": 51,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 198,
+    "pattern_width": 101,
+    "pattern_height": 134,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 103,
+    "pattern_width": 71,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 151,
+    "pattern_width": 64,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 171,
+    "pattern_width": 24,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 187,
+    "pattern_width": 32,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 191,
+    "pattern_width": 88,
+    "pattern_height": 138,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 122,
+    "pattern_width": 115,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 199,
+    "pattern_width": 134,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 162,
+    "pattern_width": 21,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 196,
+    "pattern_width": 32,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 152,
+    "pattern_width": 175,
+    "pattern_height": 88,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 178,
+    "pattern_width": 24,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 191,
+    "pattern_width": 120,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 102,
+    "pattern_width": 31,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 136,
+    "pattern_width": 101,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 183,
+    "pattern_width": 99,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 145,
+    "pattern_width": 40,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 186,
+    "pattern_width": 58,
+    "pattern_height": 150,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 163,
+    "pattern_width": 79,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 137,
+    "pattern_width": 111,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 124,
+    "pattern_width": 77,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 197,
+    "pattern_width": 113,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 187,
+    "pattern_width": 49,
+    "pattern_height": 161,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 143,
+    "pattern_width": 25,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 115,
+    "pattern_width": 83,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 138,
+    "pattern_width": 38,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 127,
+    "pattern_width": 72,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 191,
+    "pattern_width": 79,
+    "pattern_height": 135,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 171,
+    "pattern_width": 10,
+    "pattern_height": 150,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 170,
+    "fabric_height": 124,
+    "pattern_width": 47,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 182,
+    "pattern_width": 24,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 178,
+    "pattern_width": 130,
+    "pattern_height": 127,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 102,
+    "pattern_width": 63,
+    "pattern_height": 84,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 151,
+    "pattern_width": 31,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 134,
+    "pattern_width": 115,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 103,
+    "pattern_width": 38,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 183,
+    "pattern_width": 108,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 184,
+    "pattern_width": 22,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 116,
+    "pattern_width": 44,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 198,
+    "pattern_width": 170,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 141,
+    "pattern_width": 38,
+    "pattern_height": 127,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 141,
+    "pattern_width": 61,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 100,
+    "pattern_width": 48,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 133,
+    "pattern_width": 38,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 136,
+    "pattern_width": 69,
+    "pattern_height": 70,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 168,
+    "pattern_width": 152,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 121,
+    "pattern_width": 11,
+    "pattern_height": 80,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 120,
+    "pattern_width": 84,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 100,
+    "pattern_width": 62,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 177,
+    "pattern_width": 70,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 162,
+    "pattern_width": 21,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 117,
+    "pattern_width": 15,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 199,
+    "pattern_width": 164,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 154,
+    "fabric_height": 154,
+    "pattern_width": 41,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 156,
+    "pattern_width": 17,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 164,
+    "pattern_width": 81,
+    "pattern_height": 153,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 156,
+    "pattern_width": 47,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 159,
+    "pattern_width": 123,
+    "pattern_height": 40,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 184,
+    "pattern_width": 48,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 167,
+    "pattern_width": 90,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 151,
+    "pattern_width": 99,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 144,
+    "pattern_width": 58,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 105,
+    "pattern_width": 80,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 164,
+    "pattern_width": 156,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 161,
+    "pattern_width": 62,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 128,
+    "pattern_width": 14,
+    "pattern_height": 23,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 168,
+    "pattern_width": 60,
+    "pattern_height": 137,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 129,
+    "fabric_height": 175,
+    "pattern_width": 119,
+    "pattern_height": 34,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 136,
+    "pattern_width": 129,
+    "pattern_height": 117,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 113,
+    "pattern_width": 43,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 111,
+    "pattern_width": 62,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 195,
+    "pattern_width": 68,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 122,
+    "fabric_height": 121,
+    "pattern_width": 90,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 190,
+    "pattern_width": 35,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 116,
+    "pattern_width": 82,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 174,
+    "pattern_width": 26,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 200,
+    "pattern_width": 87,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 172,
+    "pattern_width": 55,
+    "pattern_height": 105,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 168,
+    "pattern_width": 60,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 191,
+    "pattern_width": 41,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 101,
+    "pattern_width": 41,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 161,
+    "pattern_width": 82,
+    "pattern_height": 151,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 138,
+    "pattern_width": 18,
+    "pattern_height": 125,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 186,
+    "pattern_width": 158,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 152,
+    "pattern_width": 42,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 125,
+    "pattern_width": 133,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 129,
+    "pattern_width": 71,
+    "pattern_height": 112,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 173,
+    "pattern_width": 84,
+    "pattern_height": 123,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 168,
+    "pattern_width": 21,
+    "pattern_height": 142,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 157,
+    "pattern_width": 115,
+    "pattern_height": 134,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 102,
+    "pattern_width": 119,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 144,
+    "pattern_width": 79,
+    "pattern_height": 54,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 130,
+    "pattern_width": 26,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 132,
+    "pattern_width": 25,
+    "pattern_height": 59,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 115,
+    "pattern_width": 50,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 121,
+    "pattern_width": 12,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 108,
+    "pattern_width": 135,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 183,
+    "pattern_width": 130,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 149,
+    "pattern_width": 43,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 124,
+    "fabric_height": 135,
+    "pattern_width": 44,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 191,
+    "pattern_width": 63,
+    "pattern_height": 135,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 180,
+    "pattern_width": 64,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 127,
+    "pattern_width": 88,
+    "pattern_height": 56,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 119,
+    "pattern_width": 83,
+    "pattern_height": 99,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 113,
+    "pattern_width": 123,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 173,
+    "pattern_width": 88,
+    "pattern_height": 29,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 106,
+    "pattern_width": 112,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 150,
+    "pattern_width": 45,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 124,
+    "fabric_height": 181,
+    "pattern_width": 18,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 172,
+    "pattern_width": 21,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 152,
+    "pattern_width": 38,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 159,
+    "fabric_height": 113,
+    "pattern_width": 68,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 140,
+    "pattern_width": 113,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 146,
+    "pattern_width": 71,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 158,
+    "pattern_width": 87,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 189,
+    "pattern_width": 75,
+    "pattern_height": 140,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 162,
+    "pattern_width": 115,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 119,
+    "fabric_height": 139,
+    "pattern_width": 23,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 121,
+    "pattern_width": 18,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 142,
+    "pattern_width": 94,
+    "pattern_height": 123,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 188,
+    "pattern_width": 21,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 117,
+    "pattern_width": 107,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 135,
+    "pattern_width": 41,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 115,
+    "pattern_width": 120,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 130,
+    "pattern_width": 14,
+    "pattern_height": 68,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 132,
+    "pattern_width": 113,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 116,
+    "pattern_width": 78,
+    "pattern_height": 40,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 141,
+    "pattern_width": 74,
+    "pattern_height": 131,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 184,
+    "pattern_width": 77,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 119,
+    "pattern_width": 95,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 147,
+    "pattern_width": 124,
+    "pattern_height": 53,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 193,
+    "pattern_width": 54,
+    "pattern_height": 163,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 112,
+    "pattern_width": 160,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 151,
+    "pattern_width": 128,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 160,
+    "pattern_width": 29,
+    "pattern_height": 28,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 177,
+    "pattern_width": 130,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 161,
+    "pattern_width": 139,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 105,
+    "fabric_height": 144,
+    "pattern_width": 12,
+    "pattern_height": 15,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 129,
+    "pattern_width": 92,
+    "pattern_height": 25,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 135,
+    "pattern_width": 40,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 165,
+    "pattern_width": 27,
+    "pattern_height": 133,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 148,
+    "pattern_width": 109,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 149,
+    "pattern_width": 122,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 191,
+    "pattern_width": 137,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 169,
+    "pattern_width": 98,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 153,
+    "pattern_width": 10,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 162,
+    "pattern_width": 31,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 127,
+    "pattern_width": 106,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 190,
+    "pattern_width": 88,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 148,
+    "pattern_width": 124,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 147,
+    "pattern_width": 161,
+    "pattern_height": 131,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 199,
+    "pattern_width": 51,
+    "pattern_height": 42,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 174,
+    "pattern_width": 16,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 125,
+    "pattern_width": 34,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 166,
+    "pattern_width": 68,
+    "pattern_height": 85,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 145,
+    "pattern_width": 37,
+    "pattern_height": 78,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 190,
+    "pattern_width": 19,
+    "pattern_height": 98,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 169,
+    "pattern_width": 51,
+    "pattern_height": 108,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 162,
+    "pattern_width": 54,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 187,
+    "pattern_width": 40,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 159,
+    "pattern_width": 12,
+    "pattern_height": 129,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 138,
+    "fabric_height": 117,
+    "pattern_width": 106,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 116,
+    "pattern_width": 12,
+    "pattern_height": 18,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 193,
+    "pattern_width": 117,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 124,
+    "pattern_width": 164,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 145,
+    "pattern_width": 114,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 103,
+    "fabric_height": 170,
+    "pattern_width": 12,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 160,
+    "pattern_width": 88,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 143,
+    "pattern_width": 89,
+    "pattern_height": 47,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 130,
+    "pattern_width": 101,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 131,
+    "fabric_height": 103,
+    "pattern_width": 52,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 150,
+    "fabric_height": 153,
+    "pattern_width": 99,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 134,
+    "fabric_height": 193,
+    "pattern_width": 60,
+    "pattern_height": 155,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 108,
+    "pattern_width": 60,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 136,
+    "fabric_height": 176,
+    "pattern_width": 47,
+    "pattern_height": 113,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 104,
+    "pattern_width": 92,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 176,
+    "pattern_width": 129,
+    "pattern_height": 140,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 106,
+    "pattern_width": 130,
+    "pattern_height": 79,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 135,
+    "pattern_width": 103,
+    "pattern_height": 93,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 150,
+    "pattern_width": 43,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 163,
+    "pattern_width": 129,
+    "pattern_height": 16,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 174,
+    "pattern_width": 154,
+    "pattern_height": 128,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 145,
+    "pattern_width": 105,
+    "pattern_height": 96,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 193,
+    "fabric_height": 142,
+    "pattern_width": 96,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 121,
+    "pattern_width": 122,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 113,
+    "pattern_width": 153,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 161,
+    "pattern_width": 166,
+    "pattern_height": 123,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 193,
+    "pattern_width": 133,
+    "pattern_height": 135,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 146,
+    "pattern_width": 142,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 167,
+    "pattern_width": 62,
+    "pattern_height": 86,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 109,
+    "pattern_width": 107,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 179,
+    "pattern_width": 119,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 160,
+    "pattern_width": 75,
+    "pattern_height": 27,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 103,
+    "pattern_width": 88,
+    "pattern_height": 66,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 149,
+    "pattern_width": 124,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 111,
+    "fabric_height": 141,
+    "pattern_width": 43,
+    "pattern_height": 57,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 128,
+    "pattern_width": 58,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 134,
+    "pattern_width": 66,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 181,
+    "pattern_width": 24,
+    "pattern_height": 168,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 146,
+    "pattern_width": 117,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 198,
+    "pattern_width": 106,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 127,
+    "pattern_width": 80,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 118,
+    "fabric_height": 182,
+    "pattern_width": 16,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 180,
+    "pattern_width": 94,
+    "pattern_height": 122,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 193,
+    "pattern_width": 86,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 180,
+    "fabric_height": 177,
+    "pattern_width": 40,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 198,
+    "fabric_height": 111,
+    "pattern_width": 179,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 132,
+    "pattern_width": 158,
+    "pattern_height": 37,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 109,
+    "fabric_height": 176,
+    "pattern_width": 29,
+    "pattern_height": 149,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 189,
+    "pattern_width": 51,
+    "pattern_height": 108,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 193,
+    "pattern_width": 81,
+    "pattern_height": 96,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 131,
+    "pattern_width": 60,
+    "pattern_height": 45,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 187,
+    "pattern_width": 105,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 156,
+    "pattern_width": 13,
+    "pattern_height": 124,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 145,
+    "pattern_width": 33,
+    "pattern_height": 104,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 162,
+    "fabric_height": 104,
+    "pattern_width": 102,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 139,
+    "pattern_width": 79,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 152,
+    "fabric_height": 171,
+    "pattern_width": 49,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 160,
+    "fabric_height": 185,
+    "pattern_width": 128,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 134,
+    "pattern_width": 13,
+    "pattern_height": 82,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 195,
+    "pattern_width": 128,
+    "pattern_height": 158,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 158,
+    "pattern_width": 18,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 128,
+    "pattern_width": 107,
+    "pattern_height": 113,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 191,
+    "fabric_height": 106,
+    "pattern_width": 85,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 181,
+    "fabric_height": 103,
+    "pattern_width": 78,
+    "pattern_height": 36,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 184,
+    "pattern_width": 14,
+    "pattern_height": 140,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 140,
+    "pattern_width": 50,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 110,
+    "fabric_height": 158,
+    "pattern_width": 24,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 180,
+    "pattern_width": 103,
+    "pattern_height": 58,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 118,
+    "pattern_width": 89,
+    "pattern_height": 63,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 193,
+    "pattern_width": 129,
+    "pattern_height": 72,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 185,
+    "fabric_height": 144,
+    "pattern_width": 18,
+    "pattern_height": 43,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 106,
+    "fabric_height": 165,
+    "pattern_width": 51,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 187,
+    "fabric_height": 191,
+    "pattern_width": 46,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 196,
+    "fabric_height": 165,
+    "pattern_width": 141,
+    "pattern_height": 64,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 112,
+    "pattern_width": 73,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 195,
+    "pattern_width": 48,
+    "pattern_height": 14,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 183,
+    "fabric_height": 162,
+    "pattern_width": 72,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 107,
+    "fabric_height": 198,
+    "pattern_width": 91,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 188,
+    "pattern_width": 127,
+    "pattern_height": 40,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 112,
+    "fabric_height": 199,
+    "pattern_width": 32,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 137,
+    "fabric_height": 142,
+    "pattern_width": 31,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 152,
+    "pattern_width": 65,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 133,
+    "pattern_width": 63,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 162,
+    "pattern_width": 93,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 140,
+    "pattern_width": 129,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 140,
+    "pattern_width": 122,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 122,
+    "pattern_width": 78,
+    "pattern_height": 100,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 168,
+    "fabric_height": 137,
+    "pattern_width": 69,
+    "pattern_height": 13,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 115,
+    "fabric_height": 151,
+    "pattern_width": 69,
+    "pattern_height": 30,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 166,
+    "fabric_height": 163,
+    "pattern_width": 87,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 112,
+    "pattern_width": 95,
+    "pattern_height": 83,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 130,
+    "fabric_height": 127,
+    "pattern_width": 11,
+    "pattern_height": 87,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 123,
+    "fabric_height": 175,
+    "pattern_width": 75,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 128,
+    "pattern_width": 81,
+    "pattern_height": 109,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 129,
+    "pattern_width": 50,
+    "pattern_height": 69,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 174,
+    "fabric_height": 105,
+    "pattern_width": 120,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 107,
+    "pattern_width": 69,
+    "pattern_height": 65,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 140,
+    "pattern_width": 86,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 161,
+    "pattern_width": 87,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 192,
+    "pattern_width": 115,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 143,
+    "fabric_height": 115,
+    "pattern_width": 90,
+    "pattern_height": 70,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 158,
+    "pattern_width": 48,
+    "pattern_height": 132,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 134,
+    "pattern_width": 52,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 159,
+    "pattern_width": 62,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 135,
+    "pattern_width": 90,
+    "pattern_height": 10,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 120,
+    "pattern_width": 103,
+    "pattern_height": 53,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 139,
+    "pattern_width": 104,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 119,
+    "pattern_width": 51,
+    "pattern_height": 44,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 160,
+    "pattern_width": 16,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 158,
+    "fabric_height": 121,
+    "pattern_width": 95,
+    "pattern_height": 28,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 102,
+    "fabric_height": 118,
+    "pattern_width": 19,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 189,
+    "fabric_height": 103,
+    "pattern_width": 86,
+    "pattern_height": 15,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 101,
+    "fabric_height": 145,
+    "pattern_width": 33,
+    "pattern_height": 52,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 148,
+    "fabric_height": 160,
+    "pattern_width": 11,
+    "pattern_height": 123,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 160,
+    "pattern_width": 122,
+    "pattern_height": 146,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 169,
+    "pattern_width": 153,
+    "pattern_height": 73,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 171,
+    "pattern_width": 79,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 190,
+    "pattern_width": 38,
+    "pattern_height": 91,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 164,
+    "fabric_height": 162,
+    "pattern_width": 51,
+    "pattern_height": 41,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 171,
+    "pattern_width": 81,
+    "pattern_height": 113,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 117,
+    "fabric_height": 172,
+    "pattern_width": 88,
+    "pattern_height": 162,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 146,
+    "pattern_width": 98,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 126,
+    "fabric_height": 150,
+    "pattern_width": 25,
+    "pattern_height": 77,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 192,
+    "fabric_height": 197,
+    "pattern_width": 44,
+    "pattern_height": 175,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 173,
+    "fabric_height": 192,
+    "pattern_width": 154,
+    "pattern_height": 49,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 142,
+    "fabric_height": 140,
+    "pattern_width": 26,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 172,
+    "fabric_height": 142,
+    "pattern_width": 47,
+    "pattern_height": 24,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 186,
+    "fabric_height": 128,
+    "pattern_width": 147,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 104,
+    "fabric_height": 126,
+    "pattern_width": 81,
+    "pattern_height": 97,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 162,
+    "fabric_height": 149,
+    "pattern_width": 52,
+    "pattern_height": 94,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 135,
+    "fabric_height": 138,
+    "pattern_width": 114,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 139,
+    "fabric_height": 101,
+    "pattern_width": 110,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 151,
+    "pattern_width": 107,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 194,
+    "pattern_width": 32,
+    "pattern_height": 92,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 155,
+    "fabric_height": 100,
+    "pattern_width": 100,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 153,
+    "fabric_height": 178,
+    "pattern_width": 91,
+    "pattern_height": 110,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 162,
+    "pattern_width": 42,
+    "pattern_height": 32,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 199,
+    "fabric_height": 117,
+    "pattern_width": 142,
+    "pattern_height": 76,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 185,
+    "pattern_width": 87,
+    "pattern_height": 153,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 183,
+    "pattern_width": 34,
+    "pattern_height": 156,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 125,
+    "fabric_height": 100,
+    "pattern_width": 110,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 154,
+    "pattern_width": 50,
+    "pattern_height": 33,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 199,
+    "pattern_width": 20,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 160,
+    "pattern_width": 46,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 176,
+    "fabric_height": 186,
+    "pattern_width": 28,
+    "pattern_height": 66,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 167,
+    "fabric_height": 189,
+    "pattern_width": 141,
+    "pattern_height": 90,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 193,
+    "pattern_width": 89,
+    "pattern_height": 60,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 169,
+    "fabric_height": 120,
+    "pattern_width": 38,
+    "pattern_height": 57,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 196,
+    "pattern_width": 97,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 195,
+    "fabric_height": 143,
+    "pattern_width": 173,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 121,
+    "fabric_height": 128,
+    "pattern_width": 72,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 101,
+    "pattern_width": 70,
+    "pattern_height": 67,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 133,
+    "fabric_height": 199,
+    "pattern_width": 56,
+    "pattern_height": 111,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 128,
+    "pattern_width": 112,
+    "pattern_height": 55,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 155,
+    "pattern_width": 16,
+    "pattern_height": 126,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 175,
+    "pattern_width": 78,
+    "pattern_height": 139,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 145,
+    "fabric_height": 111,
+    "pattern_width": 91,
+    "pattern_height": 95,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 140,
+    "fabric_height": 152,
+    "pattern_width": 74,
+    "pattern_height": 102,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 107,
+    "pattern_width": 115,
+    "pattern_height": 61,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 128,
+    "fabric_height": 196,
+    "pattern_width": 10,
+    "pattern_height": 149,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 156,
+    "fabric_height": 106,
+    "pattern_width": 71,
+    "pattern_height": 89,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 132,
+    "fabric_height": 118,
+    "pattern_width": 52,
+    "pattern_height": 20,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 191,
+    "pattern_width": 135,
+    "pattern_height": 181,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 100,
+    "fabric_height": 188,
+    "pattern_width": 49,
+    "pattern_height": 62,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 151,
+    "fabric_height": 160,
+    "pattern_width": 101,
+    "pattern_height": 135,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 127,
+    "fabric_height": 109,
+    "pattern_width": 77,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 110,
+    "pattern_width": 11,
+    "pattern_height": 46,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 116,
+    "fabric_height": 117,
+    "pattern_width": 106,
+    "pattern_height": 105,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 190,
+    "fabric_height": 187,
+    "pattern_width": 93,
+    "pattern_height": 38,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 147,
+    "fabric_height": 150,
+    "pattern_width": 96,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 157,
+    "fabric_height": 153,
+    "pattern_width": 30,
+    "pattern_height": 39,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 144,
+    "fabric_height": 124,
+    "pattern_width": 25,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 147,
+    "pattern_width": 59,
+    "pattern_height": 11,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 114,
+    "fabric_height": 102,
+    "pattern_width": 34,
+    "pattern_height": 48,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 150,
+    "pattern_width": 36,
+    "pattern_height": 116,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 179,
+    "fabric_height": 147,
+    "pattern_width": 21,
+    "pattern_height": 114,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 165,
+    "fabric_height": 178,
+    "pattern_width": 70,
+    "pattern_height": 35,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 135,
+    "pattern_width": 16,
+    "pattern_height": 119,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 113,
+    "fabric_height": 131,
+    "pattern_width": 88,
+    "pattern_height": 21,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 120,
+    "fabric_height": 169,
+    "pattern_width": 96,
+    "pattern_height": 26,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 182,
+    "fabric_height": 189,
+    "pattern_width": 125,
+    "pattern_height": 178,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 188,
+    "fabric_height": 200,
+    "pattern_width": 158,
+    "pattern_height": 101,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 161,
+    "fabric_height": 115,
+    "pattern_width": 42,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 194,
+    "fabric_height": 191,
+    "pattern_width": 122,
+    "pattern_height": 115,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 146,
+    "fabric_height": 125,
+    "pattern_width": 26,
+    "pattern_height": 74,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 200,
+    "fabric_height": 151,
+    "pattern_width": 187,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 108,
+    "fabric_height": 142,
+    "pattern_width": 79,
+    "pattern_height": 81,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 184,
+    "fabric_height": 165,
+    "pattern_width": 156,
+    "pattern_height": 31,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 177,
+    "fabric_height": 102,
+    "pattern_width": 51,
+    "pattern_height": 75,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 178,
+    "fabric_height": 196,
+    "pattern_width": 102,
+    "pattern_height": 71,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 163,
+    "fabric_height": 133,
+    "pattern_width": 78,
+    "pattern_height": 50,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 171,
+    "fabric_height": 190,
+    "pattern_width": 139,
+    "pattern_height": 22,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 149,
+    "fabric_height": 183,
+    "pattern_width": 127,
+    "pattern_height": 105,
+    "should_rotate": 0
+  },
+  {
+    "fabric_width": 141,
+    "fabric_height": 132,
+    "pattern_width": 24,
+    "pattern_height": 54,
+    "should_rotate": 0
+  }
+]
